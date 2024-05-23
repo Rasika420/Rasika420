@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development, UI/UX designing, and data analytics.
 - 🌱 I’m currently learning full stack development and data analytics.
 - 💞️ I’m looking to collaborate on innovative web applications and data analytics projects.
-- 📫 How to reach me: [Outllook](rasikakp20@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rasika-ramesh-029a35270).
+- 📫 How to reach me: [Outlook](rasikakp20@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rasika-ramesh-029a35270).
 - 😄 Pronouns: She/Her
 
 <!---
